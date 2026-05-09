@@ -1,4 +1,4 @@
-# pie_diabetico_app
+# ECG-APP
 
 A new Flutter project.
 
